@@ -1,0 +1,6 @@
+browser = chrome
+headless = no
+url = https://vdohire.com
+
+username =
+password = firstjob91
